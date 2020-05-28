@@ -5,35 +5,23 @@ layout: default
 
 # Weena Lualhati
 
-Weena Lualhati came across a video tutorial about Git. The speaker mentioned that **Git Flavored Markdown \(GFM\)** language is used in writing *README.md* files. She wants to practice \(GFM\) and did a lot of research. 
+Weena Lualhati came across a video tutorial about Git. The speaker mentioned that **Git Flavored Markdown \(GFM\)** language is used in writing *README.md* files. She wants to practice \(GFM\) and did a lot of research about markdown. She was thinking of applying everything in one article as she firmly believes in a quote by Tony Robbins,
 
-
-Tesla conducted a range of experiments with mechanical oscillators/generators, electrical discharge tubes, and early X-ray imaging. Over 300 patents.
-
-> The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane.
-
-Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day Croatia). Tesla died on the 7th of January 1943 at the age of 86 in New York City, United States.
+> \"It’s not knowing what to do, it’s doing what you know.\” 
 
 ---
 
 ## Table of contents
-- [At a glance](#at-a-glance)
-- [New York laboratories](#new-york-laboratories)
-  - [Tesla coil](#tesla-coil)
-  - [Wireless lighting](#wireless-lighting)
-  - [Radio remote control](#radio-remote-control)  
-- [Patents](#patents)  
-- [Legacy and honors](#legacy-and-honors)  
-- [Credits](#credits)  
-
-
+- Basic Syntax
+- Extended Syntax
+   
 ```
-Disclaimer: This site is used to demonstrate the skills about GitHub Flavored Markdown and is not intended to be a comprehensive outline of someone's life. Weena Lualhati is a fictional character only. 
+Disclaimer: This site is used to demonstrate the skills about Markdown and is not intended to be a comprehensive outline of someone's life. Weena Lualhati is a fictional character only. 
 ```
 
 ---
 
-## At a glance 
+## Basic Syntax
 
 | Key             | Value  |  
 |:----------------|---:|   
