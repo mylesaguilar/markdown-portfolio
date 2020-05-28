@@ -5,7 +5,8 @@ layout: default
 
 # Weena Lualhati
 
-Weena Lualhati was an inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern `alternating current (AC) electricity supply system`.  
+Weena Lualhati came across a video tutorial about Git. The speaker mentioned that **Git Flavored Markdown \(GFM\)** language is used in writing *README.md* files. She wants to practice \(GFM\) and did a lot of research. 
+
 
 Tesla conducted a range of experiments with mechanical oscillators/generators, electrical discharge tubes, and early X-ray imaging. Over 300 patents.
 
