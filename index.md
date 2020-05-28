@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-# Nikola Tesla
+# Weena Lualhati
 
-Nikola Tesla was an inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern `alternating current (AC) electricity supply system`.  
+Weena Lualhati was an inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern `alternating current (AC) electricity supply system`.  
 
 Tesla conducted a range of experiments with mechanical oscillators/generators, electrical discharge tubes, and early X-ray imaging. Over 300 patents.
 
@@ -27,7 +27,7 @@ Tesla was born on the 10th of July 1856 in Smiljan, Austrian Empire (modern-day 
 
 
 ```
-Disclaimer: This site is used to demonstrate Markdown and is not intended to be a comprehensive outline of Nikola Tesla's life. 
+Disclaimer: This site is used to demonstrate the skills about GitHub Flavored Markdown and is not intended to be a comprehensive outline of someone's life. Weena Lualhati is a fictional character only. 
 ```
 
 ---
@@ -74,7 +74,7 @@ Tesla obtained around ~~280~~ 300 patents worldwide for his inventions. Many inv
 - **Memorials**
   1. The Nikola Tesla Memorial Centre in Smiljan, Croatia, opened in 2006.
     
-![The Nikola Tesla Memorial Centre in Smiljan, Croatia](./assets/img/Muzej_Nikole_Tesle.jpg "The Nikola Tesla Memorial Centre in Smiljan, Croatia")
+![A photo of Weena Lualhati](./assets/img/Weena_Lualhati.jpg "Weena Lualhati")
 
 ## Credits
 * Content paraphrased from [Nikola Tesla Wikipedia page][Wikipedia page].  
