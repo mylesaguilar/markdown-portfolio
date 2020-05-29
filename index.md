@@ -7,7 +7,7 @@ layout: default
 
 Weena Lualhati came across a video tutorial about Git. The speaker mentioned that **Git Flavored Markdown \(GFM\)** language is used in writing *README.md* files. She wants to practice \(GFM\) and did a lot of research about markdown. She was thinking of applying everything in one article as she firmly believes in a quote by Tony Robbins,
 
-> \"It’s not knowing what to do, it’s doing what you know.\” 
+> \"It’s not knowing what to do, it’s doing what you know.” 
 
 ---
 
@@ -21,11 +21,11 @@ Disclaimer: This site is used to demonstrate the skills about Markdown and is no
 
 ---
 
-[Markdown] (https://daringfireball.net/projects/markdown/ "Markdown by John Gruber") is designed for web writers as a text-to-HTML conversion tool
+[Markdown](https://daringfireball.net "Markdown by John Gruber") is designed for web writers as a text-to-HTML conversion tool
 
 ### Basic Syntax
 
-In 2004, [John Gruber] (https://en.wikipedia.org/wiki/John_Gruber) created the markdown markup language
+In 2004, [John Gruber](https://en.wikipedia.org) created the markdown markup language
 
 #### Headings
 In writing this article, various heading levels were used by adding hash sign \#. The hash sign is proportional to the level of heading. For example, Heading 4 is written with 4 hash keys in the begining, *\#\#\#\# Heading 4*. Alternatively, equal sign *\=* is placed under the Heading 1 text while minus sign *\-* is used for Heading 2.
