@@ -21,47 +21,55 @@ Disclaimer: This site is used to demonstrate the skills about Markdown and is no
 
 ---
 
-## Basic Syntax
+[Markdown] (https://daringfireball.net/projects/markdown/ "Markdown by John Gruber") is designed for web writers as a text-to-HTML conversion tool
 
-| Key             | Value  |  
-|:----------------|---:|   
-| Born            | 10 July 1856, _Modern-day Croatia_                        |  
-| Died            | 7 January 1943 (aged 86), _New York City, United States_  |   
-| Resting place   | Nikola Tesla Museum, _Belgrade, Serbia_                   |   
-| Citizenship     | Austrian _(1856–1891)_, American _(1891–1943)_            |   
-| Best known for  | Modern alternating current (AC) electricity supply system |   
-   
+### Basic Syntax
 
-## New York laboratories
+In 2004, [John Gruber] (https://en.wikipedia.org/wiki/John_Gruber) created the markdown markup language
 
-### Tesla coil
-Tesla found the discoveries of __Heinrich Hertz__ refreshing and decided to repeat the experiment but found that the high frequency current overheated the iron core and melted the insulation between the primary and secondary windings in the coil. To fix this problem Tesla came up with his Tesla coil with an air gap instead of insulating material between the primary and secondary windings and an iron core that could be moved to different positions in or out of the coil.
- 
-### Wireless lighting
-Tesla attempted to develop a wireless lighting system based on near-field inductive and capacitive coupling and conducted a series of public demonstrations where he lit Geissler tubes and even incandescent light bulbs from across a stage. 
+#### Headings
+In writing this article, various heading levels were used by adding hash sign \#. The hash sign is proportional to the level of heading. For example, Heading 4 is written with 4 hash keys in the begining, *\#\#\#\# Heading 4*. Alternatively, equal sign *\=* is placed under the Heading 1 text while minus sign *\-* is used for Heading 2.
 
-### Radio remote control
-Tesla demonstrated a boat that used a coherer-based radio control—which he dubbed "_telautomaton_"—to the public during an electrical exhibition at Madison Square Garden. He tried to sell his idea to the U.S. military as a type of radio-controlled torpedo, but they showed little interest until World War I and afterward, when a number of countries used it in military progra
+#### Paragraphs
+To add another paragraph, just add a space under your first paragraph. To avoid unexpected formating language, one should avoid putting space or tab in the first word of the sentence.
 
-## Patents
-Tesla obtained around ~~280~~ 300 patents worldwide for his inventions. Many inventions developed by Tesla were not put into patent protection.
+#### Line Breaks
+Often times, trailing whitespace, the use of two or more spaces to make a line break, and use of \<br\> HTML tag are use to make a line break. There are other ways to create a line space but according to <https://www.markdownguide.org/>,for line breaks best practices, the use of backslash \(\|\) and the return key are often discouraged as it is not commonly accepted in other Markdown application.
 
-## Legacy and honors
-- **Places**
-  1. Belgrade Nikola Tesla Airport 
-  1. Nikola Tesla Museum Archive in Belgrade 
-  1. TPP Nikola Tesla, the largest power plant in Serbia
-  1. 128 streets in Croatia had been named after Nikola Tesla as of November 2008, making him the eighth most common street name origin in the country
-  1. Tesla, a 26 kilometer-wide crater on the far side of the moon 
-  1. 2244 Tesla, a minor planet 
-- **Holidays and events**
-  1. Day of Science, Serbia, 10 July
-  1. Day of Nikola Tesla, Association of Teachers in Vojvodina, 4–10 July
-  1. Day of Nikola Tesla, Niagara Falls, 10 July
-  1. Nikola Tesla Day in Croatia, 10 July
-  1. Nikola Tesla annual electric vehicle rally in Croatia
-- **Memorials**
-  1. The Nikola Tesla Memorial Centre in Smiljan, Croatia, opened in 2006.
+#### Lists
+Like HTML, there are two ways to make a list: ordered and unordered.
+
+##### Ordered
+All numbers should start with number 1 and every part of the list should have a number and a period in the beginning.
+
+1. Number one
+2. Number two
+3. Number three
+   1. Number three point one
+   2. Number three point two
+4. Number four
+   1. Number four point one
+   1. Number four point two
+
+##### Unordered
+
+#### Codes
+
+#### Horizontal Rules
+
+#### Links 
+
+#### Images
+
+#### Escaping Characters
+
+#### HTML
+
+
+### Extended Syntax
+
+
+
     
 ![A photo of Weena Lualhati](./assets/img/Weena_Lualhati.jpg "Weena Lualhati")
 
