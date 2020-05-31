@@ -40,7 +40,7 @@ Often times, trailing whitespace, the use of two or more spaces to make a line b
 Like HTML, there are two ways to make a list: ordered and unordered.
 
 ##### Ordered
-All numbers should start with number 1 and every part of the list should have a number and a period in the beginning.
+All numbers should start with number 1 and every part of the list should have a number and a period in the beginning. Tab key is added in the beginning of the codde to make a nested list.
 
 1. Number one
 2. Number two
@@ -52,6 +52,30 @@ All numbers should start with number 1 and every part of the list should have a 
    1. Number four point two
 
 ##### Unordered
+To make an unordered list, dash \(-\), aterisk \(*\), and plus \(+\) signs are used. Same as the ordered list, tab key is added to make a nested list.
+
++ First item
+* Second item
+- Third item
+   * Third item point one
+   * Third item point two
++ Fourth item
+
+##### Adding Elements in list
+To add a code in a list, add two tabs or eight spaces are added in the indentation.
+   1. Number one
+   2. Number two
+   
+   ```
+      <html> 
+         <head> 
+            <title>Title</title>
+         </head>
+   ```
+
+   3. Number three
+
+
 
 #### Codes
 
